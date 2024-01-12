@@ -5,4 +5,4 @@ Criando um Ransomware com Python.
 
 ## Captura de Tela 
 
-![Alt text](./kali-linux-2023 "Optional title")
+![Alt text](./kali-linux-2023.png "Optional title")
